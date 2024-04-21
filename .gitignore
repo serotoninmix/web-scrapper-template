@@ -1,0 +1,5 @@
+# .gitignore content
+data/
+logs/
+*.pyc
+__pycache__/
